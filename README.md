@@ -10,7 +10,7 @@
 2. After cloning install packages using below syntax -:
    > npm install
 
-Above command will install all the neccery packges.
+Above command will install all the necessary packages.
 
 3. Run the app on your mobile using below command -:
    > npm start
